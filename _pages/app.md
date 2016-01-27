@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: App
+post_title: The App
 author: Si
 post_date: 2016-01-27 21:36:06
 post_excerpt: ""
@@ -8,8 +8,7 @@ layout: page
 permalink: http://progressing.co.uk/app/
 published: true
 ---
-Our bespoke app has designed and built with teachers in the classroom.
-
+<h2>User friendly experience designed with teachers' needs in mind</h2>
 There are already a number of available solutions for monitoring teacher development but most lack user friendly features that give teachers and schools full control over their progress.
 
 Combine the optimal logical workflow with a mobile friendly experience, you will always have quick, direct access to your information and toolkit.
