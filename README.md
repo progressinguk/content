@@ -1,3 +1,4 @@
-# website-content
+# Progressing Website Content
 
-Synchronised content from the website using WordPress GitHub Sync plugin
+Synchronised content as Markdown files from the main website using [WordPress GitHub Sync plugin](https://wordpress.org/plugins/wp-github-sync/).
+
