@@ -9,4 +9,4 @@ permalink: >
   http://progressing.co.uk/its-just-three-levels/
 published: true
 ---
-[insert_php] print md5('tujjfdfjkh'); [/insert_php][php] print md5('tujjfdfjkh'); [/php]
+<p>Hello world!</p>
