@@ -11,4 +11,4 @@ published: true
 ---
 We are sharing our project roadmap publicly on <a href="https://trello.com/b/uJJMFTkl/progressing">Trello</a>.
 
-Follow <a href="https://trello.com/b/uJJMFTkl/progressing">our public board</a> for all the ideas we have planned and help decide these future oft Progressing.
+Follow <a href="https://trello.com/b/uJJMFTkl/progressing">our public board</a> for all the ideas we have planned and help decide the future oft Progressing.
